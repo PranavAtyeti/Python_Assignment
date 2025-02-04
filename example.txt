@@ -1,0 +1,13 @@
+python theory - chap 1,2 (15 ques)
+- how print works, java X python
+
+File handling - 
+
+1) create and read, load csv, json in application
+2) write into a folder
+
+1) create json file , load it
+2) do dict operation, check type
+3) write 
+
+check to_pandas command
